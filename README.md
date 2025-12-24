@@ -50,7 +50,7 @@ Game ini berfokus pada **ketangkasan pemain**, timing, dan refleks dalam menghad
 - **Hantu**
   - Bergerak secara statis atau patroli
   - Menjadi rintangan utama bagi pemain
-  - Menyebabkan *Game Over* jika bersentuhan dengan pemain
+  - Membuat pemain mati ketika bersentuhan dengan hantu
 
 ---
 
